@@ -88,24 +88,6 @@ são **extremamente apreciadas**
 
 Nosso obrigado vai pra essas pessoas incríveis ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://danielheart.dev"><img src="https://avatars3.githubusercontent.com/u/6912596?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Reis</b></sub></a><br /><a href="https://github.com/DanielHe4rt/php4noobs/commits?author=DanielHe4rt" title="Code">💻</a> <a href="#maintenance-DanielHe4rt" title="Maintenance">🚧</a> <a href="#ideas-DanielHe4rt" title="Ideas, Planning, & Feedback">🤔</a> <a href="#video-DanielHe4rt" title="Videos">📹</a> <a href="https://github.com/DanielHe4rt/php4noobs/pulls?q=is%3Apr+reviewed-by%3ADanielHe4rt" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://twitter.com/geekcom2"><img src="https://avatars2.githubusercontent.com/u/3955933?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Rodrigues</b></sub></a><br /><a href="https://github.com/DanielHe4rt/php4noobs/commits?author=geekcom" title="Code">💻</a> <a href="https://github.com/DanielHe4rt/php4noobs/pulls?q=is%3Apr+reviewed-by%3Ageekcom" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-geekcom" title="Maintenance">🚧</a> <a href="#ideas-geekcom" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/arthurabreu00"><img src="https://avatars1.githubusercontent.com/u/40744942?v=4" width="100px;" alt=""/><br /><sub><b>Arthur Tavares</b></sub></a><br /><a href="https://github.com/DanielHe4rt/php4noobs/commits?author=arthurabreu00" title="Code">💻</a></td>
-    <td align="center"><a href="http://about:blank"><img src="https://avatars0.githubusercontent.com/u/398034?v=4" width="100px;" alt=""/><br /><sub><b>Alexandre Eher</b></sub></a><br /><a href="https://github.com/DanielHe4rt/php4noobs/commits?author=EHER" title="Code">💻</a></td>
-    <td align="center"><a href="https://twitter.com/malukenho"><img src="https://avatars2.githubusercontent.com/u/3275172?v=4" width="100px;" alt=""/><br /><sub><b>Jefersson Nathan</b></sub></a><br /><a href="https://github.com/DanielHe4rt/php4noobs/pulls?q=is%3Apr+reviewed-by%3Amalukenho" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://airton.dev"><img src="https://avatars1.githubusercontent.com/u/6540546?v=4" width="100px;" alt=""/><br /><sub><b>Airton Zanon</b></sub></a><br /><a href="https://github.com/DanielHe4rt/php4noobs/pulls?q=is%3Apr+reviewed-by%3Aairtonzanon" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/DanielHe4rt/php4noobs/commits?author=airtonzanon" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Ryandgs"><img src="https://avatars1.githubusercontent.com/u/43894463?v=4" width="100px;" alt=""/><br /><sub><b>Ryan Douglas da Silva</b></sub></a><br /><a href="https://github.com/DanielHe4rt/php4noobs/commits?author=Ryandgs" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/ribeirohenrique"><img src="https://avatars0.githubusercontent.com/u/25642342?v=4" width="100px;" alt=""/><br /><sub><b>Henrique Mendes</b></sub></a><br /><a href="https://github.com/DanielHe4rt/php4noobs/commits?author=ribeirohenrique" title="Code">💻</a></td>
-  </tr>
-</table>
-
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
